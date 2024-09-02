@@ -1,0 +1,6 @@
+"./main.obj"
+"./fft-small/fft.obj"
+"./libmfcc/libmfcc.obj"
+"../lnk_msp430fr5994.cmd"
+-llibmath.a
+-llibc.a
